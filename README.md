@@ -1,5 +1,5 @@
 # ghdl-firsts
-this repository have sort of getting started codes with adder circuits. 
+this repository have some getting-started-with-ghdl (adder circuits). 
 
 The references are works by various professors and universitities, like EPFL, oregon state university , Stand ford and IIT Bombay . 
 You can refer them in the links attached 
