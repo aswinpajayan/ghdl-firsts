@@ -8,5 +8,5 @@ https://course.ccs.neu.edu/cs3650/ssl/TEXT-CD/Content/Tutorials/VHDL/vhdl-tutori
 https://moodle.epfl.ch/pluginfile.php/1833321/mod_resource/content/1/vhdl_testbench_tutorial.pdf
 http://web.engr.oregonstate.edu/~traylor/ece474/vhdl_lectures/component_instantiaton.pdf
 
-
-
+adder_first.vhd has the definition of a half adder and 
+adder_first_tb has the corresponding test bench 
